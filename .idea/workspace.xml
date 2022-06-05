@@ -6,9 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb696cdd-672e-4dba-b855-16f71e3adf1f" name="Changes" comment="Initial Commit : Setting up Java project using intelliJ idea">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/IntialJavaProjectSetup_jar.xml" afterDir="false" />
+    <list default="true" id="bb696cdd-672e-4dba-b855-16f71e3adf1f" name="Changes" comment="Feature : Taking input from user">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,14 @@
       <command value="IntialJavaProjectSetup.jar" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="IntialJavaProjectSetup" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.helloworld.HelloWorld" />
       <module name="IntialJavaProjectSetup" />
@@ -73,11 +80,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Calculator" />
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="JAR Application.IntialJavaProjectSetup.jar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="JAR Application.IntialJavaProjectSetup.jar" />
       </list>
@@ -99,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654355032691</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Feature : Taking input from user">
+      <created>1654412540163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654412540163</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,17 +131,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit : Setting up Java project using intelliJ idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit : Setting up Java project using intelliJ idea" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Feature : Taking input from user" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature : Taking input from user" />
   </component>
 </project>
