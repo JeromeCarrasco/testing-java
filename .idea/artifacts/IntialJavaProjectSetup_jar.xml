@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IntialJavaProjectSetup:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntialJavaProjectSetup_jar</output-path>
+    <root id="archive" name="IntialJavaProjectSetup.jar">
+      <element id="module-output" name="IntialJavaProjectSetup" />
+    </root>
+  </artifact>
+</component>
