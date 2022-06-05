@@ -6,9 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb696cdd-672e-4dba-b855-16f71e3adf1f" name="Changes" comment="Feature : Taking input from user">
+    <list default="true" id="bb696cdd-672e-4dba-b855-16f71e3adf1f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/helloworld/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntialJavaProjectSetup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IntialJavaProjectSetup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -36,20 +38,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Artifacts",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="IntialJavaProjectSetup.jar" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="JUnit.CalculatorTest">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="IntialJavaProjectSetup" />
@@ -70,6 +87,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntialJavaProjectSetup" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IntialJavaProjectSetup.jar" type="JarApplication" temporary="true">
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/IntialJavaProjectSetup_jar/IntialJavaProjectSetup.jar" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -83,9 +109,11 @@
       <item itemvalue="Application.Calculator" />
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="JAR Application.IntialJavaProjectSetup.jar" />
+      <item itemvalue="JUnit.CalculatorTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculatorTest" />
         <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="JAR Application.IntialJavaProjectSetup.jar" />
@@ -115,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654412540163</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Feature Addition of 2 numbers , input from user">
+      <created>1654416219700</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654416219700</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,6 +167,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit : Setting up Java project using intelliJ idea" />
     <MESSAGE value="Feature : Taking input from user" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature : Taking input from user" />
+    <MESSAGE value="Feature Addition of 2 numbers , input from user" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature Addition of 2 numbers , input from user" />
   </component>
 </project>
